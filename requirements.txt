@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+yfinance
+jugaad_data
+nselib
+stocksymbol
+splinter
+selenium
+-U bse
+
+
